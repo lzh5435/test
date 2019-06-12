@@ -1,5 +1,5 @@
 package com.offcn.pojo;
-//1111
+//1111+2222
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
