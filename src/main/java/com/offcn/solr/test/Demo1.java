@@ -24,7 +24,7 @@ public class Demo1 {
 		
 		save();
 		
-//		getData();
+		getData();
 		
 //		deleteData();
 		
